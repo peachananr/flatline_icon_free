@@ -2,7 +2,7 @@
 180+ high quality & minimal icons webfont for Bootstrap Framework
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
 
-[![Flat Line Icons Webfont](http://www.thepetedesign.com/demos/flat_line_icon/samples.png "Flat Line Icons Webfont")](http://www.thepetedesign.com/flatline_icons)
+[![Flat Line Icons Webfont](http://www.thepetedesign.com/images/flat_line_icons_image.jpg "Flat Line Icons Webfont")](http://www.thepetedesign.com/flatline_icons)
 
 ## Preview
 [View demo](http://www.thepetedesign.com/flatline_icons)
